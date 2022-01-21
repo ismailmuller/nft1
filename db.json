@@ -1,15 +1,14 @@
 {
-  "nft": [
-      {
-      "id": 0,
-      "description": "My NFT",
-      "image": "https://fr.wikipedia.org/wiki/Jeton_non_fongible#/media/Fichier:NFT_Icon.png",
-      "name": "NFT icon"
-  },{
-      "id": 1,
-      "description": "My NFT 1",
-      "image": "https://fr.wikipedia.org/wiki/Jeton_non_fongible#/media/Fichier:NFT_Icon.png",
-      "name": "NFT icon 1"
-  }]
+  "nft": [{
+    "id": 0,
+    "description": "My NFT",
+    "image": "https://fr.wikipedia.org/wiki/Jeton_non_fongible#/media/Fichier:NFT_Icon.png",
+    "name": "NFT icon"
+}, {
+  "id": 1,
+  "description": "My NFT",
+  "image": "https://fr.wikipedia.org/wiki/Jeton_non_fongible#/media/Fichier:NFT_Icon.png",
+  "name": "NFT icon 1"
 }
+  ]
 }
